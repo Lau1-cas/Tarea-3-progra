@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Pictures\Ejercicios Tarea 3 progra\ejercicio 10 tarea 3 progra\ejercicio 10 tarea 3 progra\bin\Debug\ejercicio 10 tarea 3 progra.exe.config
+C:\Users\USUARIO\Pictures\Ejercicios Tarea 3 progra\ejercicio 10 tarea 3 progra\ejercicio 10 tarea 3 progra\bin\Debug\ejercicio 10 tarea 3 progra.exe
+C:\Users\USUARIO\Pictures\Ejercicios Tarea 3 progra\ejercicio 10 tarea 3 progra\ejercicio 10 tarea 3 progra\bin\Debug\ejercicio 10 tarea 3 progra.pdb
+C:\Users\USUARIO\Pictures\Ejercicios Tarea 3 progra\ejercicio 10 tarea 3 progra\ejercicio 10 tarea 3 progra\obj\Debug\ejercicio 10 tarea 3 progra.csprojAssemblyReference.cache
+C:\Users\USUARIO\Pictures\Ejercicios Tarea 3 progra\ejercicio 10 tarea 3 progra\ejercicio 10 tarea 3 progra\obj\Debug\ejercicio 10 tarea 3 progra.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Pictures\Ejercicios Tarea 3 progra\ejercicio 10 tarea 3 progra\ejercicio 10 tarea 3 progra\obj\Debug\ejercicio 10 tarea 3 progra.exe
+C:\Users\USUARIO\Pictures\Ejercicios Tarea 3 progra\ejercicio 10 tarea 3 progra\ejercicio 10 tarea 3 progra\obj\Debug\ejercicio 10 tarea 3 progra.pdb
